@@ -37,6 +37,8 @@ Detailed installation guides are available in the TrinityCore [wiki](https://www
 Windows, Linux and macOS.
 
 
+Any fixes or updates would be very appreciated, Will make a Contrib file to post everyones work. 
+
 
 
 
