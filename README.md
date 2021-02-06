@@ -18,6 +18,7 @@ It is mostly based on AshamaneCore, written in c++ and sql.
 
 
 ## Requirements
+These are what I used to buld no errors.
 
 * Visual Studio 2019
 * OpenSSL 1.1.1h
