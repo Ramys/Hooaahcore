@@ -44,8 +44,3 @@ script:
   - mysql -utrinity -ptrinity world < sql/base/dev/world_database.sql
   - mysql -utrinity -ptrinity hotfixes < sql/base/dev/hotfixes_database.sql
   - mysql -uroot < sql/create/drop_mysql.sql
-  - cd bin
-  - make -j 4 -k && make install
-  - cd check_install/bin
-  - ./bnetserver --version
-  - ./worldserver --version
