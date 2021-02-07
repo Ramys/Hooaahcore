@@ -1,0 +1,10 @@
+{
+  "language": "cpp",
+  "os": [
+    "linux"
+  ],
+  "dist": "xenial",
+  "compiler": [
+    "clang"
+  ]
+}
